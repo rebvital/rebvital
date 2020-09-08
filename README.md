@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rebvital/rebvital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning JS & React
@@ -11,4 +9,3 @@
 - 📫 How to reach me: Instagram, LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a twin sister :)
--->
