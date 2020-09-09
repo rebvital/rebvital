@@ -10,7 +10,7 @@ My name is Rebeca Vital Fernandes, a brazilian 🇧🇷 girl that lives in Lisbo
 - 💬 Ask me about how i am learning currently.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-vital/)](https://www.linkedin.com/in/rebeca-vital/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rebeca_vital/)](https://www.instagram.com/rebeca_vital/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=351934456090/)](https://api.whatsapp.com/send?phone=351934456090/)
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I have a twin sister :).
+- ⚡ Fun fact: I have a twin sister 👯.
 # PT 🇧🇷
 ### Olá 👋
 
@@ -23,4 +23,4 @@ Eu me chamo Rebeca Vital Fernandes, brasileira 🇧🇷 vivendo em Lisboa-PT �
 - 💬 Me pergunte sobre como estou aprendendo atualmente.
 - 📫 Como me contactar? [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-vital/)](https://www.linkedin.com/in/rebeca-vital/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rebeca_vital/)](https://www.instagram.com/rebeca_vital/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=351934456090/)](https://api.whatsapp.com/send?phone=351934456090/)
 - 😄 Pronomes: Ela/Dela.
-- ⚡ Fun fact: Tenho uma irmã gemêa :).
+- ⚡ Fun fact: Tenho uma irmã gemêa 👯.
