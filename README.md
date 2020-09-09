@@ -3,7 +3,7 @@
 My name is Rebeca Vital Fernandes, a brazilian 🇧🇷 girl that lives in Lisbon-PT 🇵🇹, sharing here my firsts projects of that jorney that is learn how to code. If you need or want to, you can reach me in the links below.
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning [![HTML Badge](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)].
+- 🌱 I’m currently learning ![HTML Badge](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white).
 - 👯 I’m looking to collaborate as volunteer in some project.
 - 🤔 I’m looking for help with getting my first job or intership in the tech field. 
 - 💬 Ask me about how i am learning currently.
