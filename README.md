@@ -1,4 +1,4 @@
-### en 🇺🇸
+# en 🇺🇸
 ### Hi there 👋
 
 My name is Rebeca Vital Fernandes, a brazilian 🇧🇷 girl that lives in Lisbon-PT 🇵🇹, sharing here my firsts projects of that jorney that is learn how to code. If you need or want to, you can reach me in the links below ⬇️.
