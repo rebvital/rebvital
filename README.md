@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🇵My name is Rebeca Vital Fernandes, i am a brazilian 🇧🇷 girls that lives in Lisbon-PT 🇵🇹, I am sharing here my firsts projects of my jorney of learn how to code. If you need or want to, you can reach me in the links below.
+My name is Rebeca Vital Fernandes, a brazilian 🇧🇷 girl that lives in Lisbon-PT 🇵🇹, sharing here my firsts projects of that jorney of learn how to code. If you need or want to, you can reach me in the links below.
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning JS & React.
